@@ -8,6 +8,6 @@ I am currently working on developing a predictive sports modeling algorithm in b
 
 I am looking for a position that accentuates my strong analytical background and also my prolific coding skills. 
 
-# Contact Information:
+### Contact Information:
 **Email:** bbebb@umich.edu
 **Phone:** (248)231-6223
